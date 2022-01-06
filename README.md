@@ -1,5 +1,5 @@
 # MLCapstone
-All ML capstone projects
+All Machine Learning projects I learned & practiced during my courses and internships.
 
 Capstone Project
 Overview:
