@@ -3,6 +3,7 @@ All Machine Learning projects I learned & practiced during my courses and intern
 
 Capstone Project
 Overview:
+## Capstone Project 01--> Fandango Fake reviews Project
 
 If you are planning on going out to see a movie, how well can you trust online reviews and ratings? 
 Especially if the same company showing the rating also makes money by selling movie tickets. 
