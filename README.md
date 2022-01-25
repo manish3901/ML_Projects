@@ -13,4 +13,9 @@ Lets find out using data of one such company fandango.
 Check the link to understand the reason behind the project.
 http://fivethirtyeight.com/features/fandango-movies-ratings/
 
+
+## Capstone Project 02--> Customer churn analysis using tree based supervised ML project
+### Index =5.0
+Create a model to predict whether or not a customer will Churn.
+
 Thanks for the visit.
